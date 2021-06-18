@@ -1,0 +1,15 @@
+.heroContent{
+    /* display: flex; */
+    padding-left: 10%;
+}
+.aboutSection{
+    padding: 10%;
+}
+.aboutContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contactSection{
+    padding: 10%;
+}

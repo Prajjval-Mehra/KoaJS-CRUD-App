@@ -1,0 +1,17 @@
+.cardContainer{
+     display: flex; 
+    
+     justify-content: center; 
+     align-items: center; 
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0,0,0,0.3)
+    ;
+}
+.card{
+    width: 32%;
+}
+
+.logout{
+    color: red;
+}
